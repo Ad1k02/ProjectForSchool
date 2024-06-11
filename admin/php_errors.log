@@ -1,0 +1,8 @@
+[09-Jun-2024 15:16:16 Europe/Moscow] PHP Warning:  Undefined variable $playlist_id in C:\Users\adik\Desktop\project\admin\view_playlist.php on line 129
+[09-Jun-2024 15:20:13 Europe/Moscow] PHP Warning:  unlink(../uploaded_files/nC70QR4WFjCCkDZd03Cj.mp4): No such file or directory in C:\Users\adik\Desktop\project\admin\view_playlist.php on line 46
+[09-Jun-2024 15:21:08 Europe/Moscow] PHP Warning:  Undefined variable $playlist_id in C:\Users\adik\Desktop\project\admin\view_playlist.php on line 129
+[09-Jun-2024 20:26:03 Europe/Moscow] PHP Warning:  Undefined array key "Учитель" in C:\Users\adik\Desktop\project\components\admin_header.php on line 84
+[09-Jun-2024 21:03:06 Europe/Moscow] PHP Warning:  Undefined variable $playlist_id in C:\Users\adik\Desktop\project\admin\view_playlist.php on line 129
+[09-Jun-2024 21:58:56 Europe/Moscow] PHP Warning:  unlink(../uploaded_files/hOu4oqvRvpw15puqI2BQ.png): No such file or directory in C:\Users\adik\Desktop\project\admin\update_playlist.php on line 49
+[09-Jun-2024 22:08:11 Europe/Moscow] PHP Warning:  Undefined variable $playlist_id in C:\Users\adik\Desktop\project\admin\view_playlist.php on line 129
+[09-Jun-2024 22:23:45 Europe/Moscow] PHP Warning:  Undefined variable $playlist_id in C:\Users\adik\Desktop\project\admin\view_playlist.php on line 129
